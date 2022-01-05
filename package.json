@@ -19,6 +19,7 @@
   "homepage": "https://github.com/1985-maikeru/typescript-for-javascript-developers#readme",
   "devDependencies": {
     "ts-node": "^8.6.2",
+    "ts-node-dev": "^1.1.8",
     "typescript": "^3.7.5"
   }
 }

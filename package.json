@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/1985-maikeru/typescript-for-javascript-developers/issues"
   },
-  "homepage": "https://github.com/1985-maikeru/typescript-for-javascript-developers#readme"
+  "homepage": "https://github.com/1985-maikeru/typescript-for-javascript-developers#readme",
+  "devDependencies": {
+    "ts-node": "^8.6.2",
+    "typescript": "^3.7.5"
+  }
 }
